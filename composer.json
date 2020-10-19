@@ -1,0 +1,16 @@
+{
+    "name": "wcs/quest_composer",
+    "description": "Projet quest composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yacinemehai",
+            "email": "yacine.mehai@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
