@@ -5,6 +5,6 @@ class Hello
 {
     public function talk(): string
     {
-        return 'Hello World';
+        return 'Hello World, Composer!';
     }
 }
